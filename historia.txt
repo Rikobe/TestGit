@@ -4,10 +4,4 @@ Cosa 1
 
 Cosa 2
 
-Cosa 3
-
-Linea nueva
-
-El cielo es azul
-
-Compró un carro
+Mañana es viernes
